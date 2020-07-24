@@ -63,3 +63,5 @@ function not_Function() {
 function not_Function1() {
     document.getElementById("Not1").innerHTML = !(5<10);
 }
+
+document.write(Bigger = (5<1) ? "Left is bigger":"Right is bigger");
